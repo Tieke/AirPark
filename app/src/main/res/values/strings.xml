@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirPark</string>
+    <string name="title_activity_find_car_park_slot">CarParkMap</string>
+</resources>
