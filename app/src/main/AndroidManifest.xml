@@ -27,7 +27,7 @@
 
         <activity
             android:name=".FindCarParkSlot"
-            android:label="@string/title_activity_find_car_park_slot" >
+            android:label="AirPark" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
